@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MySimit.Application/1.0.0": {
+        "dependencies": {
+          "MySimit.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MySimit.Application.dll": {}
+        }
+      },
+      "MySimit.Domain/1.0.0": {
+        "runtime": {
+          "MySimit.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MySimit.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySimit.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

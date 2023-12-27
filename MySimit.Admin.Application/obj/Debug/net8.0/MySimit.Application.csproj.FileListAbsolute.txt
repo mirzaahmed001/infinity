@@ -1,0 +1,16 @@
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/bin/Debug/net8.0/MySimit.Application.deps.json
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/bin/Debug/net8.0/MySimit.Application.dll
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/bin/Debug/net8.0/MySimit.Application.pdb
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/bin/Debug/net8.0/MySimit.Domain.dll
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/bin/Debug/net8.0/MySimit.Domain.pdb
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.csproj.AssemblyReference.cache
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.AssemblyInfoInputs.cache
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.AssemblyInfo.cs
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.csproj.CoreCompileInputs.cache
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.sourcelink.json
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.csproj.CopyComplete
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.dll
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/refint/MySimit.Application.dll
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/MySimit.Application.pdb
+/Users/mkhan/Documents/Personal/MySimit/MySimit.Application/obj/Debug/net8.0/ref/MySimit.Application.dll
