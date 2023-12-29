@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MySimit.Admin.Application.CountryService;
 using MySimit.Domain.Entities;
-using System.Diagnostics.Metrics;
 
 namespace MySimit.API.Controllers
 {
+    [Route("api/[controller]")]
     public class CountryController : Controller
     {
         private readonly ICountryService _countryService;
@@ -12,29 +12,28 @@ namespace MySimit.API.Controllers
         {
             this._countryService = countryService;
         }
-        public IActionResult Create(Country country)
+        [HttpPost("Create")]
+        public IActionResult Create([FromBody] Country country)
         {
-            country.Id = new int();
             _countryService.AddAsync(country);
             return CreatedAtAction(nameof(Create), new { country.Id }, country);
         }
 
-        [HttpGet("GetCountry/{id}")]
-        public async Task<IActionResult> GetCard(int id)
+        [HttpGet("Get/{id}")]
+        public async Task<IActionResult> GetCountry(int id)
         {
             var cards = await _countryService.GetByID(id);
             if (cards != null)
             {
                 return Ok(cards);
             }
-            return NotFound("Card Not Found");
+            return NotFound("Country Not Found");
         }
 
-        [HttpDelete]
-        [Route("Id")]
-        public  IActionResult DeleteCountry(int id)
+        [HttpDelete("id")]
+        public IActionResult DeleteCountry(int id)
         {
-            var numberOfRowsEffected =  _countryService.Delete(id);
+            var numberOfRowsEffected = _countryService.Delete(id);
             if (numberOfRowsEffected > 0)
             {
                 return Ok();

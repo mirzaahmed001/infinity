@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mkhan/Documents/Personal/MySimit/MySimit.Domain/MySimit.Domain.csproj",
+      "projectUniqueName": "/Users/mkhan/Documents/projects/infinity/MySimit.Domain/MySimit.Domain.csproj",
       "projectName": "MySimit.Domain",
-      "projectPath": "/Users/mkhan/Documents/Personal/MySimit/MySimit.Domain/MySimit.Domain.csproj",
+      "projectPath": "/Users/mkhan/Documents/projects/infinity/MySimit.Domain/MySimit.Domain.csproj",
       "packagesPath": "/Users/mkhan/.nuget/packages/",
-      "outputPath": "/Users/mkhan/Documents/Personal/MySimit/MySimit.Domain/obj/",
+      "outputPath": "/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mkhan/.nuget/NuGet/NuGet.Config"

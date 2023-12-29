@@ -10,3 +10,15 @@
 /Users/mkhan/Documents/Personal/MySimit/MySimit.Domain/obj/Debug/net8.0/refint/MySimit.Domain.dll
 /Users/mkhan/Documents/Personal/MySimit/MySimit.Domain/obj/Debug/net8.0/MySimit.Domain.pdb
 /Users/mkhan/Documents/Personal/MySimit/MySimit.Domain/obj/Debug/net8.0/ref/MySimit.Domain.dll
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/bin/Debug/net8.0/MySimit.Domain.deps.json
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/bin/Debug/net8.0/MySimit.Domain.dll
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/bin/Debug/net8.0/MySimit.Domain.pdb
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/MySimit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/MySimit.Domain.AssemblyInfoInputs.cache
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/MySimit.Domain.AssemblyInfo.cs
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/MySimit.Domain.csproj.CoreCompileInputs.cache
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/MySimit.Domain.sourcelink.json
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/MySimit.Domain.dll
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/refint/MySimit.Domain.dll
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/MySimit.Domain.pdb
+/Users/mkhan/Documents/projects/infinity/MySimit.Domain/obj/Debug/net8.0/ref/MySimit.Domain.dll

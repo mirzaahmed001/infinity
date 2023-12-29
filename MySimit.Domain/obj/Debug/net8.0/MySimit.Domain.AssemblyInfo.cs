@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MySimit.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ae71cee5ea79b965b6dbdf506b045bf6d8c4951")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2da2303cc71b5d1e3840c79fccf4a98b19e69b6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MySimit.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MySimit.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

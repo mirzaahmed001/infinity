@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySimit", "MySimit\MySimit.csproj", "{E801AE23-6F79-4C04-9D99-47F81BB5EEAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySimit", "MySimit.API\MySimit.API.csproj", "{E801AE23-6F79-4C04-9D99-47F81BB5EEAC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySimit.Domain", "MySimit.Domain\MySimit.Domain.csproj", "{D17873D3-CB16-4C00-8A0B-E5F8746F8A89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySimit.Application", "MySimit.Application\MySimit.Application.csproj", "{4359863D-AE58-450C-900B-B543F9D62FC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySimit.Application", "MySimit.Admin.Application\MySimit.Admin.Application.csproj", "{4359863D-AE58-450C-900B-B543F9D62FC3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySimit.Infrastructure", "MySimit.Infrastructure\MySimit.Infrastructure.csproj", "{92B1AC42-0D68-4595-AFC4-AA32ED23EE98}"
 EndProject

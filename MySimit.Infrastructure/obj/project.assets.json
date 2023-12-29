@@ -2335,11 +2335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mkhan/Documents/Personal/MySimit/MySimit.Infrastructure/MySimit.Infrastructure.csproj",
+      "projectUniqueName": "/Users/mkhan/Documents/projects/infinity/MySimit.Infrastructure/MySimit.Infrastructure.csproj",
       "projectName": "MySimit.Infrastructure",
-      "projectPath": "/Users/mkhan/Documents/Personal/MySimit/MySimit.Infrastructure/MySimit.Infrastructure.csproj",
+      "projectPath": "/Users/mkhan/Documents/projects/infinity/MySimit.Infrastructure/MySimit.Infrastructure.csproj",
       "packagesPath": "/Users/mkhan/.nuget/packages/",
-      "outputPath": "/Users/mkhan/Documents/Personal/MySimit/MySimit.Infrastructure/obj/",
+      "outputPath": "/Users/mkhan/Documents/projects/infinity/MySimit.Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mkhan/.nuget/NuGet/NuGet.Config"
@@ -2354,11 +2354,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/mkhan/Documents/Personal/MySimit/MySimit.Admin.Application/MySimit.Admin.Application.csproj": {
-              "projectPath": "/Users/mkhan/Documents/Personal/MySimit/MySimit.Admin.Application/MySimit.Admin.Application.csproj"
+            "/Users/mkhan/Documents/projects/infinity/MySimit.Admin.Application/MySimit.Admin.Application.csproj": {
+              "projectPath": "/Users/mkhan/Documents/projects/infinity/MySimit.Admin.Application/MySimit.Admin.Application.csproj"
             },
-            "/Users/mkhan/Documents/Personal/MySimit/MySimit.Domain/MySimit.Domain.csproj": {
-              "projectPath": "/Users/mkhan/Documents/Personal/MySimit/MySimit.Domain/MySimit.Domain.csproj"
+            "/Users/mkhan/Documents/projects/infinity/MySimit.Domain/MySimit.Domain.csproj": {
+              "projectPath": "/Users/mkhan/Documents/projects/infinity/MySimit.Domain/MySimit.Domain.csproj"
             }
           }
         }
